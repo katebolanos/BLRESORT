@@ -1,0 +1,25 @@
+<!--<button class="btn btn-primary" onclick="change();" data-toggle="modal" data-target="#mymodal">Fade Toggle</button>
+<div id="mymodal" class="modal fade" role="dialog">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title text-center">This is my first modal.</h4>
+            </div>-
+            <div class="modal-body">
+                <div class="form=group">
+                    <label for="name" class="col-sm-2 control-label">Name</label>
+                    <div class="col-sm-10">
+                        <div class="row">
+                            <div class="col-md-5">
+                                <input name="fname" type="text" class="form-control" placeholder="First Name" required>
+                            </div>
+                            <div class="col-md-5">
+                                <input name="lname" type="text" class="form-control" placeholder="Last Name" required>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>-->
